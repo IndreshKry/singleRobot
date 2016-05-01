@@ -23,4 +23,28 @@
 <node pkg="singlerobot" type="singlerobot" name="swarmbot3" respawn="false" />
 </group>
 
+<group ns="swarmbot4">
+<param name="ID" value="4"/>
+<param name="NAME" value="swarmbot4"/>
+<node pkg="singlerobot" type="singlerobot" name="swarmbot4" respawn="false" />
+</group>
+
+<group ns="swarmbot5">
+<param name="ID" value="5"/>
+<param name="NAME" value="swarmbot5"/>
+<node pkg="singlerobot" type="singlerobot" name="swarmbot5" respawn="false" />
+</group>
+
+<group ns="swarmbot6">
+<param name="ID" value="6"/>
+<param name="NAME" value="swarmbot6"/>
+<node pkg="singlerobot" type="singlerobot" name="swarmbot6" respawn="false" />
+</group>
+
+<group ns="swarmbot7">
+<param name="ID" value="7"/>
+<param name="NAME" value="swarmbot7"/>
+<node pkg="singlerobot" type="singlerobot" name="swarmbot7" respawn="false" />
+</group>
+
 </launch>
